@@ -1,7 +1,7 @@
 Nova Launcher
 =============
 
-This Launcher is used in DesolationRom with the permission from TeslaCoil Software
+This Launcher is used in InvictrixRom with the permission from TeslaCoil Software
 ----------------------------------------------------------------------------------
 For any questions reguarding this, please feel free to contact TeslaCoil software 
 support at support@teslacoilsw.com
